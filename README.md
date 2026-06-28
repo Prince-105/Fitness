@@ -1,6 +1,6 @@
 # Fitness
 
-![Fitness](Screenshot 2026-06-27 194325.png)
+![Fitness](Fitness.png)
 
 # 🏋️ Fitness Tracker - Full Stack Web Application
 
@@ -100,30 +100,6 @@ Fitness-Tracker/
 │   └── schema.sql
 │
 └── README.md
-```
-
-> **Note:** If you're using **Vite** for your React application, keep the `vite.config.js` file. If you're using **Create React App**, replace it with the appropriate React project structure.
-
-## ⚙️ Getting Started
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/your-username/Fitness-Tracker.git
-```
-
-### Backend Setup
-
-1. Open the backend project in IntelliJ IDEA.
-2. Configure the MySQL database in `application.properties`.
-3. Run the Spring Boot application.
-
-### Frontend Setup
-
-```bash
-cd frontend
-npm install
-npm run dev
 ```
 
 ### API Testing
