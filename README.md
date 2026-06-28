@@ -140,9 +140,4 @@ This project helped me strengthen my skills in:
 * ☁️ Cloud Deployment
 * 🤖 AI-Based Workout & Nutrition Suggestions
 
-## 👨‍💻 Author
-
-**Prince**
-
-If you found this project useful, consider giving this repository a **⭐ Star** on GitHub. Your support is greatly appreciated!
 
