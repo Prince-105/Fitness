@@ -1,6 +1,6 @@
 # Fitness
 
-![Fitness](Fitness.png)
+![Fitness](Fitnessimg.png)
 
 # 🏋️ Fitness Tracker - Full Stack Web Application
 
